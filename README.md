@@ -10,7 +10,7 @@
 
 **git branch:** Gerencia ramificações
 
-**git commit:** cria mensagem de commit
+**git commit:** Cria mensagem de commit
 
 <h3>Nomes:</h3> 
 
