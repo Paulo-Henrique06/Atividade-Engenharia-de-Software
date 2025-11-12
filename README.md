@@ -8,11 +8,13 @@
 
 **git cherry-pick:** Aplica alterações introduzidas por commits que você tenha feito anteriormente
 
+**git branch:** Gerencia ramificações
 
+**git commit:** cria mensagem de commit
 
 <h3>Nomes:</h3> 
 
 - Paulo Henrique de Oliveira Carvalho
-- Fábio Gabriel Rodrigues
+- Fábio Gabriel Rodrigues da Silva
 - Iago Emerick de Sousa
 - João Pedro Ribas Menegale
