@@ -4,6 +4,10 @@
 
 **git status:** Verifica estado dos arquivos/diretórios
 
+**git show:** O comando git show sem parâmetros mostra a você detalhes do commit atual
+
+**git cherry-pick:** Aplica alterações introduzidas por commits que você tenha feito anteriormente
+
 
 
 <h3>Nomes:</h3> 
