@@ -21,4 +21,4 @@
 - Paulo Henrique de Oliveira Carvalho
 - Fábio Gabriel Rodrigues da Silva
 - Iago Emerick de Sousa
-- João Pedro Ribas Menegale
+- João Pedro Ribas Menegale 202402693956
