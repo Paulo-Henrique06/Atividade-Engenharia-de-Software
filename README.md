@@ -12,6 +12,10 @@
 
 **git commit:** Cria mensagem de commit
 
+**git push**  Envia commits do seu repositório local para um repositório remoto
+
+**git pull**  Baixa alterações de um repositório remoto e mescla automaticamente em seu respositório local
+
 <h3>Nomes:</h3> 
 
 - Paulo Henrique de Oliveira Carvalho
