@@ -12,13 +12,21 @@
 
 **git commit:** Cria mensagem de commit
 
-**git push**  Envia commits do seu repositório local para um repositório remoto
+**git push:**  Envia commits do seu repositório local para um repositório remoto
 
-**git pull**  Baixa alterações de um repositório remoto e mescla automaticamente em seu respositório local
+**git pull:**  Baixa alterações de um repositório remoto e mescla automaticamente em seu respositório local
+
+**git log:** Exibe histórico
+
+**git reset:** Desfaz Alteração
+
+**git remote:** Exibe os repositórios remotos
+
+**git clone:** Clona um repositório remoto já existente
 
 <h3>Nomes:</h3> 
 
-- Paulo Henrique de Oliveira Carvalho
-- Fábio Gabriel Rodrigues da Silva
-- Iago Emerick de Sousa
-- João Pedro Ribas Menegale 202402693956
+- Paulo Henrique de Oliveira Carvalho = 202403906112
+- Fábio Gabriel Rodrigues da Silva - 202402353731
+- Iago Emerick de Sousa - 202403449021
+- João Pedro Ribas Menegale = 202402693956
